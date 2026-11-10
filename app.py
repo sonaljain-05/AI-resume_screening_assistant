@@ -31,9 +31,6 @@ st.set_page_config(
 )
 
 
-# -----------------------------
-# WhatsApp Inspired Light Blue Theme
-# -----------------------------
 
 st.markdown("""
 <style>
